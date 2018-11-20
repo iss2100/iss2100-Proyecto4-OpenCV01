@@ -1,0 +1,4 @@
+interface camara {
+  void display();
+  
+}
